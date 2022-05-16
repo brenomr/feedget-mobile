@@ -25,12 +25,12 @@ export default function App() {
   
   return (
     <View style={styles.container}>
-      <Widget />
       <StatusBar 
         style="light"
         backgroundColor='transparent'
         translucent
       />
+      <Widget />
     </View>
   );
 }

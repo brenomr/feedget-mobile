@@ -6,6 +6,10 @@ export const styles = StyleSheet.create({
     paddingHorizontal: 24,
     alignItems: 'center',
   },
+  footer: {
+    flexDirection: 'row',
+    marginBottom: 16,
+  },
   header: {
     flexDirection: 'row',
     marginVertical: 16,

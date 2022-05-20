@@ -12,6 +12,10 @@ export const styles = StyleSheet.create({
     marginRight: 8,
     position: 'relative',
   },
+  image: {
+    width: 40,
+    height: 40,
+  },
   removeIcon: {
     position: 'absolute',
   },
